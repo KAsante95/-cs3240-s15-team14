@@ -28,7 +28,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+#Also the app for our super dope cs3240 project
 INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.auth',
